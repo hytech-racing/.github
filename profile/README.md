@@ -4,10 +4,6 @@
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
 <td>
 
 ```c++
