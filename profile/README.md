@@ -6,31 +6,25 @@
 <tbody>
 <tr>
 <td>
-Suppose you sell a product using the RasPi GPIO connector.<p />
+<p />
 
-How does your customer control the attached hardware?<p />
+asdf<p />
 
-For a RasPi relay board, how does the user control the relays when the Pi
-is located in the attic? End-users might not have a spare display and
-keyboard, and a display and keyboard may not be convenient at that location.
+<p />
 </td>
 <td>
-Suppose you sell a product using the RasPi GPIO connector.<p />
+<p />
 
-How does your customer control the attached hardware?<p />
+asdf<p />
 
-For a RasPi relay board, how does the user control the relays when the Pi
-is located in the attic? End-users might not have a spare display and
-keyboard, and a display and keyboard may not be convenient at that location.
+<p />
 </td>
 <td>
-Suppose you sell a product using the RasPi GPIO connector.<p />
+<p />
 
-How does your customer control the attached hardware?<p />
+asdf<p />
 
-For a RasPi relay board, how does the user control the relays when the Pi
-is located in the attic? End-users might not have a spare display and
-keyboard, and a display and keyboard may not be convenient at that location.
+<p />
 </td>
 </tr></tbody></table>
 
