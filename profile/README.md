@@ -20,9 +20,9 @@
 <tbody>
 <tr>
 <td>
-<h1><a href="https://hytechracing.gatech.edu/">Website</a></h1>
+<a href="https://hytechracing.gatech.edu/">Website</a>
 </td>
 <td>
-<h1><a href="https://hytechracing.gatech.edu/">Website</a></h1>
+<a href="https://hytechracing.gatech.edu/">Website</a>
 </td>
 </tr></tbody></table>
