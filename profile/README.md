@@ -4,17 +4,17 @@
 
 <table style="width: 100%;">
 <tr>
-<td width="33.33%">
+<td width="33.33%", align="center">
 
 # [Website](https://hytechracing.gatech.edu/)
 
 </td>
-<td width="33.33%">
+<td width="33.33%", align="center">
 
 # [Facebook](https://www.facebook.com/HyTechRacing/)
 
 </td>
-<td width="33.33%">
+<td width="33.33%", align="center">
 
 # [Instagram](https://www.instagram.com/hytech.racing/)
 
