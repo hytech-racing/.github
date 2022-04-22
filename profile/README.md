@@ -9,11 +9,15 @@
 Suppose you sell a product using the RasPi GPIO connector.<p />
 
 How does your customer control the attached hardware?<p />
+  
+For a RasPi relay board
 </td>
 <td>
 Suppose you sell a product using the RasPi GPIO connector.<p />
 
 How does your customer control the attached hardware?<p />
+  
+For a RasPi relay board
 </td>
 </tr></tbody></table>
 
