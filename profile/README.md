@@ -5,24 +5,10 @@
 <table style="width: 100%;">
 <tbody>
 <tr>
-<td align="center">
-<h1><a href="https://hytechracing.gatech.edu/">Website</a></h1>
+<td>
+Suppose you sell a product using the RasPi GPIO connector.<p />
 </td>
 <td>
-<h1><a href="https://hytechracing.gatech.edu/">Website</a></h1>
-</td>
-<td align="center">
-<h1><a href="https://hytechracing.gatech.edu/">Website</a></h1>
-</td>
-</tr></tbody></table>
-
-<table style="width: 100%;">
-<tbody>
-<tr>
-<td>
-<a href="https://hytechracing.gatech.edu/">Website</a>
-</td>
-<td>
-<a href="https://hytechracing.gatech.edu/">Website</a>
+Suppose you sell a product using the RasPi GPIO connector.<p />
 </td>
 </tr></tbody></table>
