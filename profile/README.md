@@ -7,17 +7,17 @@
 <tr>
 <td align="center">
 
-[Website](https://hytechracing.gatech.edu/)
+# [Website](https://hytechracing.gatech.edu/)
 
 </td>
 <td>
 
-[Facebook](https://www.facebook.com/HyTechRacing/)
+# [Facebook](https://www.facebook.com/HyTechRacing/)
 
 </td>
 <td align="center">
 
-[Instagram](https://www.instagram.com/hytech.racing/)
+# [Instagram](https://www.instagram.com/hytech.racing/)
 
 </td>
 </tr></tbody></table>
