@@ -6,9 +6,7 @@
 <tbody>
 <tr>
 <td align="center">
-
-# [Website](https://hytechracing.gatech.edu/)
-
+<h1>[Website](https://hytechracing.gatech.edu/)</h1>
 </td>
 <td>
 
