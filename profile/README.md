@@ -6,17 +6,13 @@
 <tbody>
 <tr>
 <td align="center">
-<h1>[Website](https://hytechracing.gatech.edu/)</h1>
+<h1><a href="https://hytechracing.gatech.edu/">Website</a></h1>
 </td>
 <td>
-
-# [Facebook](https://www.facebook.com/HyTechRacing/)
-
+<h1><a href="https://hytechracing.gatech.edu/">Website</a></h1>
 </td>
 <td align="center">
-
-# [Instagram](https://www.instagram.com/hytech.racing/)
-
+<h1><a href="https://hytechracing.gatech.edu/">Website</a></h1>
 </td>
 </tr></tbody></table>
 
