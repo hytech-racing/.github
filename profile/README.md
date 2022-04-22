@@ -6,22 +6,17 @@
 <tr>
 <td>
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
+# [Team Site](https://hytechracing.gatech.edu/)
 
 </td>
 <td>
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
+# [Facebook](https://www.facebook.com/HyTechRacing/)
+
+</td>
+<td>
+
+# [Instagram](https://www.instagram.com/hytech.racing/)
 
 </td>
 </tr>
