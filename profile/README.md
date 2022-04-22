@@ -2,13 +2,7 @@
 
 # HyTech Racing is an award-winning student-run organization at the Georgia Institute of Technology dedicated to furthering students' engineering experience through the rigorous design and development of Formula SAE electric vehicles.
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
-<table>
+<table style="width: 100%;">
 <tr>
 <td>
 
